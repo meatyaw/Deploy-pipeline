@@ -1,0 +1,13 @@
+pyproject.toml
+apps/__init__.py
+apps/main.py
+spaceship_titanic.egg-info/PKG-INFO
+spaceship_titanic.egg-info/SOURCES.txt
+spaceship_titanic.egg-info/dependency_links.txt
+spaceship_titanic.egg-info/top_level.txt
+src/__init__.py
+src/data_ingestion.py
+src/evaluation.py
+src/pipeline.py
+src/pre_processing.py
+src/train.py
